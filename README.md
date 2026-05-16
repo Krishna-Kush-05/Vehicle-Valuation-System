@@ -1,5 +1,3 @@
-# Vehicle-Valuation-System
-
 # 🚗 Used Car Price Predictor
 
 AI-powered used car price estimation using **9 machine learning models** trained on Indian used car market data.
